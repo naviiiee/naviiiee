@@ -27,5 +27,3 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naviiiee)](https://github.com/anuraghazra/github-readme-stats)
